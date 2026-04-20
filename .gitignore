@@ -1,0 +1,25 @@
+# Environment & secrets
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Logs (keep folder, ignore content)
+logs/*.log
+logs/*.jsonl
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Byte-compiled
+*.pyc
